@@ -1,21 +1,232 @@
-<h1 align="center">Hi 👋, I'm Suyash Kakade</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/suyashsk](https://github.com/suyashsk)
+# 👋 Hi, I'm Suyash Kakade
 
-- 💬 Ask me about **JAVA, SpringBoot, Angular, React, SQL**
+### ☕ Java Full Stack Developer
 
-- 📫 How to reach me **suyashkakade.sk03@gmail.com**
+**Building scalable backend services • Modern web applications • Enterprise solutions**
 
-- 📄 Know about my experiences [ I'm a Java Full Stack Developer with 2+ years of experience building enterprise applications and delivering end-to-end features across backend and frontend systems. I enjoy working on scalable backend services, modern web interfaces, complex business logic, and solving real-world engineering problems]
-
-- ⚡ Fun fact **I like to play cricket, badminton and chess**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suyashkakade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashkakade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mountainwolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mountainwolf" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/suyashsk">
+    <img src="https://img.shields.io/badge/GitHub-suyashsk-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suyashkakade">
+    <img src="https://img.shields.io/badge/LinkedIn-Suyash%20Kakade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suyashkakade.sk03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Java Full Stack Developer with 2+ years of experience** building enterprise applications and delivering end-to-end features across backend and frontend systems.
+
+My primary focus is developing **robust backend services with Java & Spring Boot**, building responsive interfaces with **Angular**, and working with **microservices and relational databases**.
+
+I enjoy solving complex business problems, understanding user journeys, and turning requirements into clean, maintainable and production-ready solutions.
+
+```text
+💻 Full Stack Development
+☕ Java & Spring Boot
+🔗 REST APIs & Microservices
+🎨 Angular & TypeScript
+🗄️ SQL & MySQL
+🚀 Enterprise Application Development
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="45" height="45" alt="Spring Boot"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
+</p>
+
+`Java 17` • `Spring Boot` • `Microservices` • `REST APIs` • `Kafka` • `RabbitMQ`
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+`Angular 21` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3`
+
+### Database & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+`MySQL` • `PostgreSQL` • `SQL` • `Git` • `GitHub` • `Docker` • `Jenkins` • `Postman`
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Backend Development
+
+* Build RESTful APIs
+* Develop Spring Boot services
+* Implement business logic
+* Work with microservices
+* Handle complex calculations
+* Database integration
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+* Build Angular applications
+* Develop reusable UI components
+* Implement user journeys
+* Integrate REST APIs
+* Handle complex UI workflows
+* Deliver responsive features
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project
+
+### 🏢 FCA RegData
+
+**Enterprise Microservices-based Application**
+
+**Role:** Java Full Stack Developer
+
+**Tech:** `Java 17` `Spring Boot` `Microservices` `Angular 21` `TypeScript` `SQL` `MySQL`
+
+#### Highlights
+
+* ⚙️ Developed and delivered **end-to-end full-stack features**
+* ☕ Implemented backend services using **Java 17 & Spring Boot**
+* 🔗 Worked with a **Microservices-based architecture**
+* 🎨 Developed UI features using **Angular 21 & TypeScript**
+* 🧮 Implemented complex business calculations based on user journeys
+* 📄 Worked on features involving **PDF report generation**
+* 🗄️ Developed database operations using **SQL & MySQL**
+* 📋 Participated in **Sprint discussions and User Story refinement**
+* 🚀 Took features from implementation through **User Story delivery**
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suyashsk&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsk&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suyashsk&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+ ├── Advanced Java
+ ├── Multithreading & Concurrency
+ ├── JVM & Performance
+ └── Design Patterns
+
+Spring Boot
+ ├── Advanced REST APIs
+ ├── Microservices
+ ├── Spring Security
+ └── Distributed Systems
+
+System Design
+ ├── Scalability
+ ├── Distributed Systems
+ ├── Caching
+ └── Message Queues
+```
+
+---
+
+## 🎯 My Development Philosophy
+
+> **"Write code that is simple to understand, easy to maintain, and built to scale."**
+
+I believe good software isn't just about making things work — it's about creating solutions that are **reliable, maintainable and useful**.
+
+---
+
+## ♟️ Beyond Coding
+
+When I'm away from the keyboard, you'll probably find me:
+
+🏏 Playing **Cricket**
+🏸 Playing **Badminton**
+♟️ Playing **Chess**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, engineers, recruiters and technology enthusiasts.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/suyashkakade">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suyashkakade.sk03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/mountainwolf">
+<img src="https://img.shields.io/badge/LeetCode-MountainWolf-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Java • Spring Boot • Angular • Microservices**
+
+</div>
