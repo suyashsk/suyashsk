@@ -48,7 +48,6 @@ I enjoy solving complex business problems, understanding user journeys, and turn
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="45" height="45" alt="Spring Boot"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
 </p>
