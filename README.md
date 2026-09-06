@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suyash Kakade</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashsk" alt="suyashsk" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/suyashsk](https://github.com/suyashsk)
 
 - 💬 Ask me about **JAVA, SpringBoot, Angular, React, SQL**
 
 - 📫 How to reach me **suyashkakade.sk03@gmail.com**
 
-- 📄 Know about my experiences [I'm a Java Full Stack Developer with 2+ years of experience building enterprise applications and delivering end-to-end features across backend and frontend systems. I enjoy working on scalable backend services, modern web interfaces, complex business logic, and solving real-world engineering problems](I'm a Java Full Stack Developer with 2+ years of experience building enterprise applications and delivering end-to-end features across backend and frontend systems. I enjoy working on scalable backend services, modern web interfaces, complex business logic, and solving real-world engineering problems)
+- 📄 Know about my experiences [ I'm a Java Full Stack Developer with 2+ years of experience building enterprise applications and delivering end-to-end features across backend and frontend systems. I enjoy working on scalable backend services, modern web interfaces, complex business logic, and solving real-world engineering problems]
 
 - ⚡ Fun fact **I like to play cricket, badminton and chess**
 
