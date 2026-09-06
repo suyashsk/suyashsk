@@ -116,7 +116,7 @@ I enjoy solving complex business problems, understanding user journeys, and turn
 
 ## 🚀 Featured Project
 
-### 🏢 FCA RegData
+### 🏢 Company
 
 **Enterprise Microservices-based Application**
 
@@ -140,14 +140,6 @@ I enjoy solving complex business problems, understanding user journeys, and turn
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suyashsk&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsk&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -161,16 +153,8 @@ I enjoy solving complex business problems, understanding user journeys, and turn
 ## 📚 Currently Learning
 
 ```text
-Java
- ├── Advanced Java
- ├── Multithreading & Concurrency
- ├── JVM & Performance
- └── Design Patterns
 
 Spring Boot
- ├── Advanced REST APIs
- ├── Microservices
- ├── Spring Security
  └── Distributed Systems
 
 System Design
