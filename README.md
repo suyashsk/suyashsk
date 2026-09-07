@@ -154,12 +154,8 @@ I enjoy solving complex business problems, understanding user journeys, and turn
 
 ```text
 
-Spring Boot
- └── Distributed Systems
-
 System Design
  ├── Scalability
- ├── Distributed Systems
  ├── Caching
  └── Message Queues
 ```
